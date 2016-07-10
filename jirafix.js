@@ -31,6 +31,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 // @domain       sinaxkm.atlassian.net
 // @include      https://sinaxkm.atlassian.net/browse/*
 // @match        https://sinaxkm.atlassian.net/browse/*
+// @updateURL    https://bitbucket.org/ghaschel/jirafix/raw/501c638133037800bdae8a249df4c214d651fb32/jirafix.js
+// @downloadURL  https://bitbucket.org/ghaschel/jirafix/raw/501c638133037800bdae8a249df4c214d651fb32/jirafix.js
+// @license      MIT
 // ==/UserScript==
 (function() {
     'use strict';
